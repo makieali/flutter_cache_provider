@@ -1,6 +1,6 @@
 name: flutter_cache_provider
 description: A production-ready caching solution for Flutter with auto-loading, tiered caching (L1/L2), stale-while-revalidate, eviction policies, and metrics.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/makieali/flutter_cache_provider
 repository: https://github.com/makieali/flutter_cache_provider
 issue_tracker: https://github.com/makieali/flutter_cache_provider/issues

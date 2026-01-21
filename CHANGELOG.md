@@ -1,3 +1,10 @@
+## 1.0.1
+
+### Documentation
+
+- Shortened package description for pub.dev compliance
+- Added example file for pub.dev scoring
+
 ## 1.0.0
 
 ### Initial Release
