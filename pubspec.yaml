@@ -1,5 +1,5 @@
 name: flutter_cache_provider
-description: A production-ready caching solution for Flutter and Dart with auto-loading cache, tiered caching (L1/L2), stale-while-revalidate, multiple eviction policies, event streams, and Prometheus-compatible metrics.
+description: A production-ready caching solution for Flutter with auto-loading, tiered caching (L1/L2), stale-while-revalidate, eviction policies, and metrics.
 version: 1.0.0
 homepage: https://github.com/makieali/flutter_cache_provider
 repository: https://github.com/makieali/flutter_cache_provider
